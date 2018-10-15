@@ -1,0 +1,154 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 71
+Number of records retrieved in searches: 1600
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 41
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 9
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 4
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 12
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 6
+	Date: 2018-02-27 ; Times: 8
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 4
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clarkii genus:nerodia hassex:1" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "Pseudacris brachyphona year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "plethodon teyahalee" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates institutioncode:SLU" ; Times: 1
+	Query: "ambystoma laterale" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "Necturus mississippi" ; Times: 1
+	Query: "Trachemys scripta mappable:1" ; Times: 3
+	Query: "Macrochelys temminckii mappable:1" ; Times: 7
+	Query: "institutioncode:SLU" ; Times: 2
+	Query: "Graptemys pseudogeographica mappable:1" ; Times: 4
+	Query: "genus:macrochelys (male OR female) hassex:1" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "genus:leptodeira (male OR female) hassex:1" ; Times: 1
+	Query: "plestiodon septentrionalis" ; Times: 1
+	Query: "Pseudacris brachyphona year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "(ott)" ; Times: 1
+	Query: "haldea striatula" ; Times: 2
+	Query: "Trimorphodon lambda Sonora" ; Times: 1
+	Query: "gbifdatasetid:65dfe059-f1c1-4ec9-9a05-d6877a1d2842" ; Times: 11
+	Query: "specificepithet:egregius family:Scincidae county:&#34;Walton&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:areolatus genus:lithobates family:ranidae institutioncode:SLU" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "Incilius mazatlanensis sonora" ; Times: 2
+	Query: "uromastyx aegyptia" ; Times: 2
+	Query: "ficimia olivacea san luis potosi" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 2
+	Query: "Crotalus willardi Sonora" ; Times: 1
+	Query: "Anaxyrus punctatus sonora" ; Times: 2
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "specificepithet:montanus genus:pseudotriton county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Trachemys scripta scripta mappable:1" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "Phyllorhynchus browni Sonora" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "family:ranidae institutioncode:SLU" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1892 download events in this period)
+Total number of records downloaded: 6786
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-11 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:storeria hassex:1" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "specificepithet:jordani genus:Plethodon stateprovince:&#34;North Carolina&#34; year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 2
+	Query: "taricha granulosa" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "institutioncode:SLU" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "Nerodia sipedon pleuralis" ; Times: 1
+	Query: "specificepithet:sagrei genus:Anolis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "haldea striatula" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "regina rigida" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
