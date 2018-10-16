@@ -1,0 +1,146 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 1231
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 129
+	Country: Unknown ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 5
+	Date: 2018-03-16 ; Times: 2
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-27 ; Times: 17
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 4
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 4
+	Date: 2018-03-05 ; Times: 2
+	Date: 2018-03-28 ; Times: 13
+	Date: 2018-03-07 ; Times: 6
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-22 ; Times: 11
+	Date: 2018-03-23 ; Times: 8
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 15
+	Date: 2018-03-26 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "ctenosaura similis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 2
+	Query: "class:Amphibia AND Reptilia order:Anura" ; Times: 1
+	Query: "celestus jamaica" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 2
+	Query: "vntype:specimen order:Anura institutioncode:SLU" ; Times: 1
+	Query: "genus:Hemidactylus specificepithet:turcicus" ; Times: 1
+	Query: "Crotalus horridus stateprovince:&#34;Louisiana&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:opalinus genus:Anolis" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "genus:Necturus institutioncode:SLU" ; Times: 2
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 5
+	Query: "specificepithet:platura genus:Pelamis country:&#34;Panama&#34;" ; Times: 1
+	Query: "institutioncode:SLU" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "specificepithet:beyeri genus:Necturus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "(Lithobates catesbeianus)" ; Times: 4
+	Query: "regina grahamii" ; Times: 1
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "genus:Drymarchon specificepithet:corais" ; Times: 2
+	Query: "Lampropeltis thayeri" ; Times: 1
+	Query: "institutioncode:SLU talpoideum" ; Times: 6
+	Query: "genus:Drymobius specificepithet:margaritiferus" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Conophis specificepithet:lineatus" ; Times: 5
+	Query: "genus:Heterodon specificepithet:platirhinos" ; Times: 2
+	Query: "genus:Farancia specificepithet:erytrogramma" ; Times: 5
+	Query: "genus:Hyla specificepithet:avivoca" ; Times: 6
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:fowleri" ; Times: 2
+	Query: "genus:Lithobates specificepithet:grylio" ; Times: 2
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 2
+	Query: "genus:Macrochelys institutioncode:SLU" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "genus:Incilius specificepithet:mazatlanensis" ; Times: 6
+	Query: "genus:Gerrhosaurus specificepithet:major" ; Times: 5
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 5
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 5
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 4
+	Query: "louisiana hemidactylus turcicus" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 5
+	Query: "specificepithet:Mexicana genus:Lampropeltis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 5
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 5
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 2
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "specificepithet:capito genus:Lithobates stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:quercicus" ; Times: 2
+	Query: "genus:Leptodeira specificepithet:annulata" ; Times: 2
+	Query: "locality:Mexico recordedby:White" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:(texas)" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;north carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1284 download events in this period)
+Total number of records downloaded: 782
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Belgium ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 5
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:beyeri genus:Necturus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "plestiodon laticeps" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:SLU" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "eleutherodactylus coqui" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis mappable:1" ; Times: 4
+	Query: "specificepithet:jordani genus:plethodon AND NOT specificepithet:shermani AND NOT specificepithet:metcalfi AND NOT specificepithet:montanus AND NOT specificepithet:clemsonae AND NOT specificepithet:amplus AND NOT specificepithet:meridianus AND NOT specificepithet:cheoah" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
