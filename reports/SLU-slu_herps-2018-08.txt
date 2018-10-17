@@ -1,0 +1,170 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 253
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Argentina ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 6
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-05 ; Times: 21
+	Date: 2018-08-04 ; Times: 3
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi" ; Times: 1
+	Query: "Lithobates berlandieri mappable:1" ; Times: 1
+	Query: "genus:Celestus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum mappable:1" ; Times: 1
+	Query: "CM Herps 2240" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Quechultenango" ; Times: 1
+	Query: "genus:Rhineura county:&#34;Alachua&#34;" ; Times: 1
+	Query: "Ctenosaura defensor" ; Times: 2
+	Query: "desmognathus organi" ; Times: 1
+	Query: "regina grahamii" ; Times: 2
+	Query: "genus:Macrochelys sex:male OR female" ; Times: 1
+	Query: "specificepithet:aquatica genus:eurycea" ; Times: 1
+	Query: "Ambystoma laterale mappable:1" ; Times: 2
+	Query: "specificepithet:capito family:Ranidae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:garmani genus:Anolis country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:Rhineura county:&#34;alachua&#34;" ; Times: 1
+	Query: "genus:Uma stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:SLU" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 15
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "genus:Haideotriton" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Tropidodipsas sartorii Mexico" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "crotalus willardi" ; Times: 19
+	Query: "CM 2240" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1416 download events in this period)
+Total number of records downloaded: 3442
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: United States ; Times: 27
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 8
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-10 ; Times: 9
+	Date: 2018-08-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "genus:Anolis country:jamaica year&gt;1950 year&lt;2014" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "specificepithet:(opalinus OR reconditus) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:grahami genus:Anolis year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "specificepithet:wilderae genus:eurycea" ; Times: 1
+	Query: "order:Caudata" ; Times: 1
+	Query: "specificepithet:(grahami OR garmani) genus:Anolis year&gt;1900 year&lt;2018" ; Times: 2
+	Query: "Pelamis" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "specificepithet:aquatica genus:eurycea" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "genus:Haideotriton" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Plestiodon tetragrammus tetragrammus" ; Times: 1
+	Query: "specificepithet:(opalinus OR reconditus) genus:Anolis year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "Porthidium yucatanicum" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "genus:anolis country:jamaica year&gt;1950 year&lt;2014" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "specificepithet:(grahami OR garmani) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+
+
+End of report.
