@@ -1,0 +1,113 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 605
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Switzerland ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Heterodon Leon county" ; Times: 1
+	Query: "smilisca baudini" ; Times: 1
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "Arizona elegans Cochise" ; Times: 1
+	Query: "Jefferson county heterodon" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Florida heterodon simus" ; Times: 2
+	Query: "heterodon simus Florida" ; Times: 1
+	Query: "Jackson county Florida Crotalus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 2
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 3
+	Query: "Cryptobranchus carolina" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 1
+	Query: "Rhadinaea gaigeae" ; Times: 1
+	Query: "Pseudemys concinna stateprovince:Alabama" ; Times: 2
+	Query: "Leon county heterodon" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "pantherophis guttata guttata" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "genus:gerrhonotus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 977 download events in this period)
+Total number of records downloaded: 289
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 12
+	Country: France ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 5
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-25 ; Times: 2
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon serratus" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 2
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "order:Squamata lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "order:Squamata hasmass:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "order:Squamata year &gt;= 1960 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+	Query: "Comal county" ; Times: 1
+
+
+End of report.
