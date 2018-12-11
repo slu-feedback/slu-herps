@@ -1,0 +1,105 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 240
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 5
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-14 ; Times: 2
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-20 ; Times: 4
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-17 ; Times: 2
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "specificepithet:capito genus:Lithobates institutioncode:SLU" ; Times: 1
+	Query: "masticophis schotti" ; Times: 1
+	Query: "specificepithet:kaouthia genus:naja" ; Times: 1
+	Query: "Polk county Lampropeltis" ; Times: 1
+	Query: "28904" ; Times: 1
+	Query: "catalognumber:2592" ; Times: 1
+	Query: "specificepithet:capito genus:Lithobates" ; Times: 2
+	Query: "siren texas" ; Times: 1
+	Query: "crotalus willardi sonora" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 5
+	Query: "specificepithet:rivularis stateprovince:California" ; Times: 1
+	Query: "Cryptobranchus stateprovince:&#34;Missouri&#34;" ; Times: 4
+	Query: "Dipsas brevifacies" ; Times: 1
+	Query: "specificepithet:capito genus:lithobates institutioncode:SLU" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:viridis stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1719 download events in this period)
+Total number of records downloaded: 761
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Belgium ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 1
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 2
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tropidodipsas sartorii" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "siren texas" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "specificepithet:temminckii family:Chelydridae" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "family:Plethodontidae" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "vntype:specimen family:Plethodontidae order:Caudata class:Amphibia" ; Times: 1
+	Query: "specificepithet:horridus genus:sceloporus country:&#34;mexico&#34;" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+
+
+End of report.
