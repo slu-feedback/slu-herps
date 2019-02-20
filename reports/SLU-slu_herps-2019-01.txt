@@ -1,0 +1,122 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 834
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 41
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-01 ; Times: 3
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 3
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-28 ; Times: 6
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-25 ; Times: 8
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-30 ; Times: 4
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-16 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 1
+	Query: "Reptilia Arkansas ouachita" ; Times: 4
+	Query: "rhineura" ; Times: 1
+	Query: "sauromalus coconino" ; Times: 1
+	Query: "lithobates capito" ; Times: 2
+	Query: "ceratophrys ornata" ; Times: 5
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "institutioncode:SLU" ; Times: 2
+	Query: "hemidactylus turcicus (louisiana)" ; Times: 1
+	Query: "haideotriton" ; Times: 1
+	Query: "Leon county Heterodon" ; Times: 1
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:SLU" ; Times: 1
+	Query: "specificepithet:mabeei genus:ambystoma stateprovince:&#34;north carolina&#34; month &gt;= 2 month &lt;= 2" ; Times: 1
+	Query: "genus:phrynosoma stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Amphibia Georgia telfair" ; Times: 1
+	Query: "institutioncode:SLU genus:Rana" ; Times: 1
+	Query: "specificepithet:capito family:ranidae stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 2
+	Query: "institutioncode:SLU lithobates capito" ; Times: 1
+	Query: "Lithobates sevosus" ; Times: 1
+	Query: "specificepithet:capito genus:Lithobates stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 1
+	Query: "Ceratophrys ornata year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:capito family:ranidae institutioncode:SLU" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:serratus genus:Laemanctus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "anolis cuvieri" ; Times: 2
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Necturus alabamensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:naja genus:Naja basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Laemanctus serratus" ; Times: 1
+	Query: "specificepithet:capito family:Ranidae institutioncode:SLU" ; Times: 1
+	Query: "locality:hemlock lake stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Desmognathus organi" ; Times: 1
+	Query: "genus:Gerrhonotus stateprovince:&#34;Texas&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 962 download events in this period)
+Total number of records downloaded: 287
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "specificepithet:conanti genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:capito family:ranidae institutioncode:SLU" ; Times: 1
+	Query: "eurycea pterophila" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Celestus" ; Times: 1
+	Query: "specificepithet:muralis genus:Podarcis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "siren intermedia" ; Times: 1
+	Query: "specificepithet:wehrlei genus:Plethodon" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "onychodactylus" ; Times: 1
+
+
+End of report.
