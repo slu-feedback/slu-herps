@@ -1,0 +1,119 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 504
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-03 ; Times: 2
+	Date: 2019-02-18 ; Times: 8
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-10 ; Times: 4
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-12 ; Times: 7
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-27 ; Times: 4
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-07 ; Times: 7
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-16 ; Times: 6
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-23 ; Times: 7
+	Date: 2019-02-28 ; Times: 7
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Adamanteus mississippi" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:aegyptia genus:Uromastyx" ; Times: 1
+	Query: "brachyphona year &gt;= 1990" ; Times: 3
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Hemidactylium Mississippi" ; Times: 1
+	Query: "specificepithet:holbrooki genus:Scaphiopus month &gt;= 2 month &lt;= 3" ; Times: 2
+	Query: "Tropidodipsas Yucatan" ; Times: 1
+	Query: "Amphibia Mississippi tishomingo" ; Times: 1
+	Query: "specificepithet:holbrooki genus:Scaphiopus month &gt;= 3 month &lt;= 4" ; Times: 1
+	Query: "sceloporous" ; Times: 2
+	Query: "Crotalus Willardi" ; Times: 9
+	Query: "genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "family:Anguidae institutioncode:SLU" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Mississippi&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "brachyphona year &gt;= 1980" ; Times: 5
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; institutioncode:SLU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "holcosus undulatus" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "genus:Plestiodon stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 5
+	Query: "specificepithet:clelia genus:Clelia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;louisiana&#34;" ; Times: 3
+	Query: "specificepithet:holbrooki genus:Scaphiopus month &gt;= 4 month &lt;= 5" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "brachyphona year &gt;= 2000" ; Times: 1
+	Query: "brachyphona year &gt;= 2005" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Tynerensis missouri" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Reptilia Mississippi tishomingo" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Aneides tennessee" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1227 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "brachyphona" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Aspidoscelis velox" ; Times: 1
+
+
+End of report.
