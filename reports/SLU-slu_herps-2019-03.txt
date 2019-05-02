@@ -1,0 +1,170 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 539
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: United Kingdom ; Times: 45
+	Country: Argentina ; Times: 3
+	Country: Sweden ; Times: 3
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-15 ; Times: 36
+	Date: 2019-03-26 ; Times: 5
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-08 ; Times: 3
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-16 ; Times: 4
+	Date: 2019-03-04 ; Times: 6
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-12 ; Times: 6
+	Date: 2019-03-13 ; Times: 8
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lithobates berlandieri mappable:1" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "Clelia clelia" ; Times: 1
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Typhlops richardi" ; Times: 1
+	Query: "Pseudotriton montanus Alabama" ; Times: 1
+	Query: "Reptilia Alabama Tuscaloosa" ; Times: 5
+	Query: "Typhlops jamaicensis" ; Times: 1
+	Query: "Reptilia Alabama lowndes" ; Times: 2
+	Query: "Python regius" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "Hemidactylium Mississippi" ; Times: 1
+	Query: "Dipsas brevifacies" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "order:Caudata catalognumber:4957" ; Times: 3
+	Query: "family:sirenidae institutioncode:SLU" ; Times: 2
+	Query: "Pseudotriton Alabama Tuscaloosa" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Farancia erytrogramma" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "Uromastyx aegyptia" ; Times: 1
+	Query: "Tantilla coronata" ; Times: 1
+	Query: "Rena dulcis" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "Lithobates grylio mappable:1" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "Porthidium yucatanicum" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Arizona stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "Magliophis stahli" ; Times: 1
+	Query: "Geophis hoffmanni" ; Times: 1
+	Query: "sistrurus tergeminus texas" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Terrell&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hemidactylus parvimaculatus" ; Times: 4
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "Coluber flagellum" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "Hypsiglena ochrorhyncha" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Leioheterodon madagascariensis" ; Times: 1
+	Query: "apalone mutica louisiana" ; Times: 1
+	Query: "Naja nubiae" ; Times: 1
+	Query: "gbifdatasetid:65dfe059-f1c1-4ec9-9a05-d6877a1d2842" ; Times: 1
+	Query: "Typhlops lumbricalis" ; Times: 1
+	Query: "Naja sumatrana" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 1
+	Query: "specificepithet:dulcis genus:rena stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Rhadinaea gaigeae" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "Geophis brachycephalus" ; Times: 1
+	Query: "potato" ; Times: 1
+	Query: "Incilius nebulifer mappable:1" ; Times: 1
+	Query: "genus:siren institutioncode:SLU" ; Times: 2
+	Query: "trionyx muticus louisiana" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "Reptilia Alabama bibb" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 1
+	Query: "Nerodia erythrogaster Kentucky" ; Times: 2
+	Query: "Phyllorhynchus browni" ; Times: 1
+	Query: "class:Reptilia locality:Sarpy stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Trimorphodon lambda" ; Times: 1
+	Query: "Lampropeltis nigra" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "genus:Siren institutioncode:SLU" ; Times: 1
+	Query: "Bogertophis subocularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1281 download events in this period)
+Total number of records downloaded: 254
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 8
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "porthidium" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "desmognathus santeetlah" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "genus:Onychodactylus" ; Times: 1
+	Query: "sistrurus catenatus oklahoma" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "sistrurus catenatus texas" ; Times: 1
+	Query: "elapidae Mexico" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "sistrurus tergeminus texas" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "trionyx muticus louisiana" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Plethodon serratus" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "genus:Lampropeltis haslength:1" ; Times: 2
+	Query: "apalone mutica louisiana" ; Times: 1
+	Query: "specificepithet:pipiens genus:Lithobates stateprovince:&#34;Colorado&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:organi genus:Desmognathus family:Plethodontidae year&lt;=2009" ; Times: 1
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "specificepithet:punctatus genus:Necturus" ; Times: 1
+
+
+End of report.
