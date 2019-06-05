@@ -1,0 +1,112 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 101
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 14
+	Country: United States ; Times: 30
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 1
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 16
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-31 ; Times: 3
+	Date: 2019-05-03 ; Times: 6
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-18 ; Times: 9
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi sonora" ; Times: 7
+	Query: "genus:Micrurus county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "specificepithet:tener genus:Micrurus" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Liberty&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Uromastyx dispar" ; Times: 4
+	Query: "quechultenango REPTILIA" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Alabama lampropeltis" ; Times: 8
+	Query: "Tuskegee reptilia" ; Times: 1
+	Query: "genus:Pantherophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 2
+	Query: "specificepithet:capito family:Ranidae stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "lithobates sevosus" ; Times: 1
+	Query: "COLOTLIPA REPTILIA" ; Times: 1
+	Query: "uromastyx aegyptia" ; Times: 10
+	Query: "specificepithet:Catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "844 specificepithet:capito family:Ranidae institutioncode:SLU" ; Times: 1
+	Query: "hemidactylus parvimaculatus" ; Times: 2
+	Query: "specificepithet:catesbeianus genus:lithobates stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Lithobates grylio" ; Times: 1
+	Query: "Bothrops andianus peru" ; Times: 1
+	Query: "specificepithet:scandens genus:Pseudoeurycea" ; Times: 2
+	Query: "Pantherophis guttata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 940 download events in this period)
+Total number of records downloaded: 81
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 9
+	Country: Switzerland ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "family:Sphaerodactylidae" ; Times: 1
+	Query: "&#34;Naja naja&#34;" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "sauromalus" ; Times: 1
+	Query: "specificepithet:priscus genus:Chiropterotriton" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "specificepithet:scandens genus:Pseudoeurycea" ; Times: 1
+
+
+End of report.
