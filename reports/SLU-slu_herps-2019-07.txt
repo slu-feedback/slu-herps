@@ -1,0 +1,120 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 311
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 8
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 2
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Nerodia specificepithet:cyclopion" ; Times: 1
+	Query: "genus:Heterodon specificepithet:simus" ; Times: 1
+	Query: "Anolis sagrei (louisiana)" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "genus:Siren specificepithet:intermedia" ; Times: 1
+	Query: "Willardi sonora" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;McDonald&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "Uromastyx dispar" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia stateprovince:&#34;mississippi&#34;" ; Times: 2
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "Heterodon simus mappable:1" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:laterale" ; Times: 1
+	Query: "Lithobates sevosus" ; Times: 3
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:sauromalus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon" ; Times: 3
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon" ; Times: 1
+	Query: "Crotalus Willardi" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 985 download events in this period)
+Total number of records downloaded: 438
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-11 ; Times: 2
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-30 ; Times: 9
+	Date: 2019-07-31 ; Times: 13
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Aspidoscelis sexlineata" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "specificepithet:tetragrammus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "Incilius mazatlanensis" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "plethodon ouachitae" ; Times: 1
+	Query: "specificepithet:ater genus:Sauromalus" ; Times: 2
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "Scincidae" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "locality:Ordway" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:brevis genus:Coleonyx" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:laticeps genus:plestiodon" ; Times: 1
+
+
+End of report.
