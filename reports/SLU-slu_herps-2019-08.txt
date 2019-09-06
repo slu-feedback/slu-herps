@@ -1,0 +1,118 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 315
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Slovenia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-15 ; Times: 9
+	Date: 2019-08-14 ; Times: 4
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-20 ; Times: 5
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:wallacei family:Plethodontidae" ; Times: 1
+	Query: "specificepithet:funereum genus:arrhyton" ; Times: 1
+	Query: "Neoseps reynoldsi" ; Times: 4
+	Query: "notopthalmus" ; Times: 3
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:SLU" ; Times: 6
+	Query: "specificepithet:olympicus genus:rhyacotriton stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "natricidae" ; Times: 1
+	Query: "Carphophis amoenus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "eurycea pterophila" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 10
+	Query: "specificepithet:tynerensis genus:Eurycea stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:miliarius county:&#34;Jefferson&#34;" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "genus:thamnophis stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Haideotriton specificepithet:wallacei" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1034 download events in this period)
+Total number of records downloaded: 1240
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-02 ; Times: 6
+	Date: 2019-08-01 ; Times: 5
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "sistrurus catenatus tergeminus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "specificepithet:wallacei family:Plethodontidae" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tetragrammus genus:Plestiodon" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Sceloporus horridus" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "family:Sphaerodactylidae" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "Aspidoscelis communis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "genus:thamnophis stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 2
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "natricidae" ; Times: 1
+
+
+End of report.
