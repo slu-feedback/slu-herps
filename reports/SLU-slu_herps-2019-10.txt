@@ -1,0 +1,144 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 339
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 60
+	Country: Brazil ; Times: 2
+	Country: Sweden ; Times: 4
+	Country: Argentina ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 5
+	Date: 2019-10-08 ; Times: 2
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 2
+	Date: 2019-10-24 ; Times: 14
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-28 ; Times: 5
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-23 ; Times: 20
+	Date: 2019-10-14 ; Times: 4
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:notata genus:uma institutioncode:SLU" ; Times: 1
+	Query: "Phrynosoma orbiculare orientale" ; Times: 1
+	Query: "specificepithet:crusculus genus:Celestus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "family:Colubridae country:&#34;Jamaica&#34;" ; Times: 3
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "specificepithet:humilis genus:Anolis locality:Limon country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "family:Bufonidae stateprovince:&#34;hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "specificepithet:garmani genus:anolis country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Orleans&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Storeria arkansas year &gt;= 2000 year" ; Times: 1
+	Query: "specificepithet:crusculus genus:Celestus stateprovince:&#34;Westmoreland&#34; country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:&#34;Virginia&#34;" ; Times: 2
+	Query: "specificepithet:sartorii genus:tropidodipsas country:&#34;mexico&#34;" ; Times: 1
+	Query: "amphisbaena schmidti" ; Times: 3
+	Query: "specificepithet:compactilis stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "genus:rhineura institutioncode:SLU" ; Times: 1
+	Query: "hemidactylium county:&#34;polk&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus institutioncode:SLU" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "notophthalmus viridescens stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "specificepithet:willardi genus:crotalus institutioncode:SLU" ; Times: 1
+	Query: "Neoseps reynoldsi 2017" ; Times: 1
+	Query: "genus:Anolis locality:Limon country:&#34;Costa Rica&#34;" ; Times: 4
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "crotalus willardi mexico" ; Times: 3
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Monroe&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Storeria dekayi Arkansas year &gt;= 2000" ; Times: 1
+	Query: "class:Amphibia distance(location,geopoint(30.542561803259982,-88.78294056971725))&lt;30163.55336332461" ; Times: 1
+	Query: "Drymobius margaritiferus mappable:1" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "Lithobates capito" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Mississippi&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "crotalus willardi" ; Times: 15
+	Query: "17684" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Celestus stateprovince:&#34;Westmoreland&#34; country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Gilmer&#34; stateprovince:&#34;Georgia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1308 download events in this period)
+Total number of records downloaded: 345
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-04 ; Times: 4
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "Phrynosoma orbiculare orientale" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "amphisbaena schmidti" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "genus:gyrinophilus stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "yonahlossee" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
