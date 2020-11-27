@@ -1,0 +1,165 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 643
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 87
+	Country: United Kingdom ; Times: 7
+	Country: Australia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-05 ; Times: 23
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 6
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-07 ; Times: 6
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 15
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-21 ; Times: 5
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 6
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 5
+	Date: 2020-04-29 ; Times: 5
+	Date: 2020-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:amoenus genus:Carphophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "plestiodon fasciatus ouachita louisiana" ; Times: 1
+	Query: "crucialis" ; Times: 3
+	Query: "opheodrys aestivus ouachita louisiana" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "coluber flagellum louisiana" ; Times: 1
+	Query: "specificepithet:aestivus genus:opheodrys county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "Lithobates berlandieri" ; Times: 4
+	Query: "class:reptilia county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Eleutherodactylus fuscus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "bufonidae fowleri louisiana" ; Times: 1
+	Query: "Osteopilus crucialis" ; Times: 2
+	Query: "FICIMIA STRECKERI" ; Times: 2
+	Query: "specificepithet:catenatus genus:Sistrurus county:&#34;Russell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "TU" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 3
+	Query: "specificepithet:tener genus:Micrurus" ; Times: 1
+	Query: "eurycea cirrigera alabama" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Hancock&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "storeria dekayi louisiana" ; Times: 1
+	Query: "scincella lateralis louisiana" ; Times: 12
+	Query: "specificepithet:fasciatus genus:plestiodon county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "Haldea striatula" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "chelydra serpentina louisiana" ; Times: 1
+	Query: "genus:Plestiodon county:&#34;pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Russell&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Santa Rosa&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "anaxyrus americanus louisiana" ; Times: 2
+	Query: "Rana palustris Louisiana" ; Times: 1
+	Query: "specificepithet:jordani genus:plethodon stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 3
+	Query: "lithobates clamitans louisiana" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;osage&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "anaxyrus fowleri louisiana" ; Times: 1
+	Query: "specificepithet:ruber genus:pseudotriton stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Miami-Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "specificepithet:erythrogaster genus:nerodia county:&#34;landry&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;georgia&#34;" ; Times: 3
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:schmidti genus:amphisbaena" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "nerodia fasciata mississippi" ; Times: 1
+	Query: "rana clamitans louisiana" ; Times: 1
+	Query: "specificepithet:proximus genus:thamnophis county:&#34;ouachita&#34; stateprovince:&#34;louisiana&#34;" ; Times: 1
+	Query: "conecuh national forest" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "rana catesbeiana louisiana" ; Times: 2
+	Query: "hyla chrysoscelis louisiana" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1171 download events in this period)
+Total number of records downloaded: 515
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Panama ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-27 ; Times: 4
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-29 ; Times: 13
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:wehrlei genus:plethodon stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:teyahalee genus:Plethodon" ; Times: 1
+	Query: "specificepithet:serratus genus:plethodon" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:yonahlossee genus:Plethodon" ; Times: 1
+	Query: "Haldea striatula" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "clelia clelia" ; Times: 1
+	Query: "specificepithet:schmidti genus:amphisbaena" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "Kinosternon steindachneri" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+	Query: "specificepithet:ocoee genus:Desmognathus" ; Times: 1
+
+
+End of report.
