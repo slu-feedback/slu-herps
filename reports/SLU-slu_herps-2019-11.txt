@@ -1,0 +1,165 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 522
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Canada ; Times: 1
+	Country: Sweden ; Times: 51
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 3
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-08 ; Times: 9
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-28 ; Times: 10
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-21 ; Times: 6
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-23 ; Times: 3
+	Date: 2019-11-24 ; Times: 3
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-26 ; Times: 14
+	Date: 2019-11-09 ; Times: 8
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-29 ; Times: 3
+	Date: 2019-11-05 ; Times: 3
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Micrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "genus:Micrurus county:&#34;Sabine&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Evangeline&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Columbia&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Orleans&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Saint Tammany&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Jackson&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pseudacris brachyphona North Carolina" ; Times: 3
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Plaquemines&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "family:Viperidae county:&#34;Jefferson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:ornata" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:SLU" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Rapides&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;north carolina&#34; institutioncode:SLU" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Brevard&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Orange&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leptodeira septentrionalis mexico" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jefferson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:SLU" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Walton&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Lafayette&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Neoseps reynoldsi 2017" ; Times: 4
+	Query: "genus:Sistrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Lampropeltis class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Saint Bernard&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 2
+	Query: "genus:ophisaurus specificepithet:ventralis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Regina grahamii mappable:1" ; Times: 1
+	Query: "Pseudoeurycea scandens" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Saint Tammany&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Sistrurus catenatus 2017" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Jefferson Davis&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nerodia cyclopion mappable:1" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Livingston&#34; stateprovince:&#34;Louisiana&#34; year &gt;= 2004 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Allen&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sceloporous" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Vernon&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Jefferson&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "WILLARDI" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Highlands&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Santa Rosa&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Livingston&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:siren year &lt;= 1955" ; Times: 1
+	Query: "Regina rigida mappable:1" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Saint Tammany&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Washington&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Plaquemines&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lacertina genus:siren year &lt;= 1955" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Tangipahoa&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Gulf&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "willardi mexico" ; Times: 4
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Saint Charles&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:rhineura specificepithet:floridana institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Calhoun&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Viperidae county:&#34;Jefferson Davis&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1367 download events in this period)
+Total number of records downloaded: 206
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-23 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 5
+	Date: 2019-11-08 ; Times: 7
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-17 ; Times: 3
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia institutioncode:MVZ OR mcz OR usmn OR cm OR ummz OR msum OR amnh OR uf OR ku OR cas OR lacm OR lsumz OR sdnhm" ; Times: 1
+	Query: "specificepithet:speciosus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:nerodia specificepithet:sipedon institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 2
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:dmnh OR dmns OR flarch OR fhsm OR coa OR gsu OR hsu OR ism OR psm OR isu OR clo OR msu OR mmns OR byu OR mlz OR msb OR ttu OR umhn OR nmmnh OR nysm OR ncsm OR nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:punctatus genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:plestiodon specificepithet:reynoldsi institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:ventralis institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Anolis grahami" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "genus:ophisaurus specificepithet:attenuatus institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "specificepithet:debilis genus:anaxyrus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 5
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:rhineura specificepithet:floridana institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+
+
+End of report.
