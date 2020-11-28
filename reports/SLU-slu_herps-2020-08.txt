@@ -1,0 +1,154 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 202
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 36
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-12 ; Times: 5
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-28 ; Times: 7
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-25 ; Times: 5
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pituophis deppei" ; Times: 1
+	Query: "specificepithet:alleganiensis genus:Cryptobranchus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:capito genus:Lithobates stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:longicauda genus:Eurycea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Bothrops andianus peru" ; Times: 1
+	Query: "mappable:1 scientificname:Macrochelys temminckii" ; Times: 1
+	Query: "Eurycea longicauda stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:speciosus stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctatus genus:Necturus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyphona genus:Pseudacris stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Trachemys scripta scripta" ; Times: 1
+	Query: "vntype:specimen specificepithet:mabeei genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "CRotalus willardi" ; Times: 1
+	Query: "vntype:specimen specificepithet:capito genus:Lithobates stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Louisiana&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:nerodia stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "specificepithet:ERYTROGRAMMA genus:farancia" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 1
+	Query: "Heterodon simus" ; Times: 4
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:SLU" ; Times: 5
+	Query: "stateprovince:&#34;North Carolina&#34; (Cryptobranchus)" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 2
+	Query: "genus:Necturus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "family:ambystomatidae stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "James L. Dobie" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 756 download events in this period)
+Total number of records downloaded: 808
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-17 ; Times: 9
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-06 ; Times: 6
+	Date: 2020-08-29 ; Times: 5
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "order:Squamata" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Texas genus:Hypsiglena" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "genus:Hemidactylus hasmass:1" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Ficimia olivacea" ; Times: 1
+	Query: "conophis lineatus" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "stateprovince:&#34;North Carolina&#34; (Cryptobranchus)" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "hynobiidae" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
