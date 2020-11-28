@@ -1,0 +1,155 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 1769
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 138
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Finland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 5
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 74
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 6
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-29 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 2
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 2
+	Query: "Regina grahamii" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 2
+	Query: "Squamata hybrid" ; Times: 2
+	Query: "Eurycea pterophila" ; Times: 2
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "Chiropterotriton priscus" ; Times: 3
+	Query: "Bothrops andianus peru" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 12
+	Query: "Desmognathus aeneus" ; Times: 3
+	Query: "Plethodon mississippi" ; Times: 3
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "institutioncode:SLU" ; Times: 4
+	Query: "Eurycea longicauda" ; Times: 2
+	Query: "Plethodon caddoensis" ; Times: 3
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "regina grahamii" ; Times: 8
+	Query: "Plethodon ouachitae" ; Times: 1
+	Query: "Pseudoeurycea robertsi" ; Times: 2
+	Query: "Eurycea multiplicata" ; Times: 3
+	Query: "specificepithet:pterophila genus:Eurycea county:&#34;Hays&#34;" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 3
+	Query: "Desmognathus ocoee" ; Times: 3
+	Query: "Pseudacris brachyphona" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 2
+	Query: "Natricidae" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 3
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34; year &gt;= 2000" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "genus:Siren county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 2
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 3
+	Query: "Pseudotriton montanus" ; Times: 1
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Pseudotriton ruber" ; Times: 4
+	Query: "specificepithet:nana genus:Eurycea county:&#34;Hays&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Vermilion&#34; stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Plethodon serratus" ; Times: 3
+	Query: "Desmognathus conanti" ; Times: 4
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Plethodon teyahalee" ; Times: 3
+	Query: "Eurycea quadridigitata" ; Times: 2
+	Query: "Desmognathus auriculatus" ; Times: 2
+	Query: "specificepithet:pterophila county:&#34;Hays&#34;" ; Times: 2
+	Query: "Desmognathus brimleyorum" ; Times: 3
+	Query: "Eurycea cirrigera" ; Times: 4
+	Query: "crotalus willardi" ; Times: 3
+	Query: "Desmognathus quadramaculatus" ; Times: 3
+	Query: "Desmognathus santeetlah" ; Times: 3
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "Desmognathus organi" ; Times: 3
+	Query: "specificepithet:cycladen family:bufonidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 940 download events in this period)
+Total number of records downloaded: 2802
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-31 ; Times: 5
+	Date: 2020-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Clelia clelia" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Incilius" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "Holcosus undulatus" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:mazatlanensis family:bufonidae" ; Times: 1
+	Query: "Aspidoscelis deppii" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Eleutherodactylus coqui" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "specificepithet:nebulifer family:bufonidae" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:cycladen family:bufonidae" ; Times: 1
+
+
+End of report.
