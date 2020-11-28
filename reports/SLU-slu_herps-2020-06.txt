@@ -1,0 +1,51 @@
+Report for Institution Code SLU, Resource slu_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 4
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-11 ; Times: 1
+	Date: 2020-06-10 ; Times: 7
+	Date: 2020-06-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 6
+	Query: "amphiuma tridactylum" ; Times: 7
+	Query: "year &gt;= 2013 year &lt;= 2013 institutioncode:SLU" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 2
+	Query: "institutioncode:SLU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 474 download events in this period)
+Total number of records downloaded: 72
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudotriton stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "Lithobates catesbeianus" ; Times: 1
+
+
+End of report.
